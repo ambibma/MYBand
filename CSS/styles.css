@@ -1,6 +1,14 @@
 .sidebar {
   float: right;
+  margin: 20px;
+  border: 20px rgb(234, 31, 119);
+  padding: 20px;
+  background-color: aquamarine;
 }
+
 img {
   float: left;
+  width: 300px;
+  height: auto;
+  padding: 10px;
 }
